@@ -2,7 +2,7 @@
 
 Esta é uma versão do workflow de trabalho feito em https://github.com/bellentani/boot-gulp
 
-Estou fazendo ela em paralelo ao projeto com o Bourbon para manter-se a possibilidade de trabalho com o Bootstrap, que tem como base a library do Compass.
+Ela está sendo mantida em paralelo ao projeto com o Bourbon para dar a possibilidade de trabalho com o Bootstrap, que tem como base a library do Compass. Muitos projetos ainda utilizam o mindset do Bootstrap e fechar as portas para o framework pode gerar problemas relacionados a curva de aprendizado, por isso resolvemos manter os dois projetos para suporte mais amplo.
 
 ## Requisitos
 
