@@ -1,0 +1,32 @@
+@import "compass";
+@import "project/inc";
+
+body {
+  width: 900px;
+  margin: 0 auto;
+  background-color: black;
+  //color: white;
+}
+.main {
+  color: red;
+
+  div {
+    background: red;
+  }
+  p {
+    font-weight: bold;
+    border-radius: 5px;
+    display: flex;
+    opacity: 0.5;
+  }
+}
+.teste {
+  color: white;
+  @include border-radius(10px);
+}
+section {
+  color: blue;
+}
+.jumbotron {
+  color: white;
+}
